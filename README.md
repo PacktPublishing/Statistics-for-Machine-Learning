@@ -25,11 +25,11 @@ libraries. It does not assume that you are already equipped with the knowledge o
 statistics and mathematics, like linear algebra and so on.
 The following versions of software are used throughout this book, but it should run fine
 with any more recent ones as well:
-Anaconda 3–4.3.1 (all python and its relevant packages are included in
+* Anaconda 3–4.3.1 (all python and its relevant packages are included in
 Anaconda, Python 3.6.1, NumPy 1.12.1, Pandas 0.19.2, and scikit-learn 0.18.1)
-R 3.4.0 and RStudio 1.0.143
-Theano 0.9.0
-Keras 2.0.2
+* R 3.4.0 and RStudio 1.0.143
+* Theano 0.9.0
+* Keras 2.0.2
 
 ## Related Products
 * [Machine Learning for Developers](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-developers?utm_source=github&utm_medium=repository&utm_campaign=9781786469878)
