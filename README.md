@@ -25,7 +25,7 @@ libraries. It does not assume that you are already equipped with the knowledge o
 statistics and mathematics, like linear algebra and so on.
 The following versions of software are used throughout this book, but it should run fine
 with any more recent ones as well:
-* Anaconda 3–4.3.1 (all python and its relevant packages are included in
+* Anaconda 3–4.3.1 (all Python and its relevant packages are included in
 Anaconda, Python 3.6.1, NumPy 1.12.1, Pandas 0.19.2, and scikit-learn 0.18.1)
 * R 3.4.0 and RStudio 1.0.143
 * Theano 0.9.0
